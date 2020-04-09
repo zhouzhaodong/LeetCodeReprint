@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 面试题 02.01. 移除重复节点
  * @author zhouzhaodong
  */
 public class RemoveDuplicateNodes {
@@ -18,7 +19,7 @@ public class RemoveDuplicateNodes {
         if (head == null) {
             return null;
         }
-        List<Integer> list = new ArrayList<Integer>();
+        List<Integer> list = new ArrayList<>();
         while (head != null) {
             // 包含关系
             if (!list.contains(head.val)) {

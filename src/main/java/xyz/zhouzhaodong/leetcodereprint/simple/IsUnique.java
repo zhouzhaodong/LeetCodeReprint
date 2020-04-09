@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * 面试题 01.01. 判定字符是否唯一
  * @author 10166815
  */
 public class IsUnique {

@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Objects;
 
 /**
+ * 面试题 01.02. 判定是否互为字符重排
  * @author 10166815
  */
 public class CheckPermutation {

@@ -1,6 +1,7 @@
 package xyz.zhouzhaodong.leetcodereprint.simple;
 
 /**
+ * 面试题 01.06. 字符串压缩
  * @author zhouzhaodong
  */
 public class CompressString {
